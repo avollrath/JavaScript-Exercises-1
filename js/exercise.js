@@ -153,8 +153,8 @@ console.log (operandOne - operandTwo); // 1
 console.log (operandOne * operandTwo); // 12
 console.log (operandOne / operandTwo); // 1.33333333333
 console.log (operandOne % operandTwo); // 1
-console.log (operandOne++); // 4
-console.log (operandTwo--); // 3
+console.log (++operandOne); // 5
+console.log (--operandTwo); // 2
 console.log (operandOne++ * operandTwo++ * operandOne * operandTwo + operandOne + operandTwo); // 189
 
 
