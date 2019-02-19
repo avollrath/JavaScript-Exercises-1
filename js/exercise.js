@@ -1,7 +1,7 @@
 
 // Exercise 1
 
-console.log('Excercise 1');
+console.log('Excercise 1'.toUpperCase());
 
 //a
 
@@ -24,7 +24,7 @@ console.log (`You are ${yourAge} years old.`);
 
 // Exercise 2
 
-console.log('Excercise 2');
+console.log('Excercise 2'.toUpperCase());
 
 console.log(typeof firstName);
 console.log(typeof lastName);
@@ -38,7 +38,7 @@ console.log(typeof yourAge);
 
 // Exercise 3 
 
-console.log('Excercise 3');
+console.log('Excercise 3'.toUpperCase());
 
 var company ='Integrify Academy';
 
@@ -126,7 +126,7 @@ console.log (company.repeat(5));
 
 // Exercise 4
 
-console.log('Excercise 4');
+console.log('Excercise 4'.toUpperCase());
 
 // a
 
@@ -142,7 +142,7 @@ console.log (10 > 100);
 
 // Exercise 5
 
-console.log('Excercise 5');
+console.log('Excercise 5'.toUpperCase());
 
 
 let operandOne = 4;
@@ -160,7 +160,7 @@ console.log (operandOne++ * operandTwo++ * operandOne * operandTwo + operandOne 
 
 // Exercise 6
 
-console.log('Excercise 6');
+console.log('Excercise 6'.toUpperCase());
 
 // a
 
@@ -209,7 +209,7 @@ console.log (4 ==='4'); // answer = false
 
 // Exercise 7
 
-console.log('Excercise 7');
+console.log('Excercise 7'.toUpperCase());
 
 // a
 
@@ -255,13 +255,13 @@ console.log (!(4==='4')); // answer = true
 
 // Exercise 8
 
-console.log('Excercise 8');
+console.log('Excercise 8'.toUpperCase());
 
 var yourAge = prompt('Enter your age:');
 
 if (yourAge >= 18) {
     
-    console.log('You are old enough to drive'); 
+    console.log('You are old enough to drive.'); 
 }
 
     else {
@@ -289,7 +289,7 @@ if (yourAge > myAge) {
 
     // Exercise 9
 
-    console.log('Excercise 9');
+    console.log('Excercise 9'.toUpperCase());
 
     let a = 4;
     let b = 3;
