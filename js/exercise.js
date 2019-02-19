@@ -101,11 +101,12 @@ console.log (company.lastIndexOf('e')); // answer = 14
 
 // o
 
-console.log (' Integrify Academy '.trim(' '));
+console.log (' Integrify Academy '.trim(''));
 
 // p
 
 console.log (company.startsWith('I'));
+
 
 // q
 
@@ -117,11 +118,11 @@ console.log (company.match('a'));
 
 // s
 
-console.log ('Integrify','Academy'.concat());
+console.log ('Integrify','Academy','Headquarter'.concat());
 
 // t
 
-console.log (company.repeat(5));
+console.log ((company + ' ').repeat(5));
 
 
 // Exercise 4
@@ -294,7 +295,7 @@ if (yourAge > myAge) {
     let a = 4;
     let b = 3;
 
-    console.log((a > b) ? 'a is greater than b' : 'a is less than b');
+    console.log(a > b ? 'a is greater than b' : 'a is less than b');
 
 
 
